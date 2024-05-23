@@ -6,3 +6,6 @@ contact_links:
   - name: Cardano API Issues
     url: https://github.com/IntersectMBO/cardano-api/issues
     about: Report API related issues here
+  - name: Cardano Node Release
+    url: https://github.com/IntersectMBO/cardano-node/issues/new?template=node_release.md
+    about: Cardano Node release coordinator can use this template to initiate and track release process.
